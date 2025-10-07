@@ -1,3 +1,3 @@
 Day 4: Feature workflow simulation
 Initial app version
-Added logging feature.
+Added logging feature.Fixed typo in logging feature.
