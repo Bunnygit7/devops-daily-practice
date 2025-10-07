@@ -1,2 +1,6 @@
 Service v1 - base version
+<<<<<<< HEAD
 Security patch added.
+=======
+Login module integrated
+>>>>>>> c8ec17f (Login module integrated)
